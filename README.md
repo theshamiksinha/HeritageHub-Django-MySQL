@@ -42,7 +42,6 @@ Once the application is running locally:
 - Admins can log in to manage site data and update information.
 
 ## Project Images
-
 | ![Image 0](projectImages/0.png) | ![Image 1](projectImages/1.png) |
 |---------------------------------|---------------------------------|
 | *Description of image 0.*       | *Description of image 1.*       |
@@ -55,10 +54,13 @@ Once the application is running locally:
 |---------------------------------|---------------------------------|
 | *Description of image 3.*       | *Description of image 4.*       |
 
-| ![Image 5](projectImages/5.png) |
-|---------------------------------|
-| *Description of image 5.*       |
+| ![Image 5](projectImages/5.png) | ![Image 6](projectImages/6.png) |
+|---------------------------------|---------------------------------|
+| *Description of image 5.*       | *Description of image 6.*       |
 
+| ![Image 7](projectImages/7.png) | ![Image 9](projectImages/9.png) |
+|---------------------------------|---------------------------------|
+| *Description of image 7.*       | *Description of image 9.*       |
 ## Database Diagrams
 
 ### Entity-Relationship Diagram

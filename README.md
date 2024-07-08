@@ -26,11 +26,11 @@ HeritageHub is an E-commerce platform utilizing MySQL, Python, and Flask to prom
 
 | ![Image 2](projectImages/2.png) | ![Image 2.5](projectImages/2.5.png) |
 |---------------------------------|-----------------------------------|
-| *Login as Admin or Customer *   | *Customer login interface *       |
+| *Login as Admin or Customer*    | *Customer login interface*        |
 
 | ![Image 3](projectImages/3.png) | ![Image 4](projectImages/4.png) |
 |---------------------------------|---------------------------------|
-| *Product catalogue *            | *Scrollable interface*          |
+| *Product catalogue*             | *Scrollable interface*          |
 
 | ![Image 5](projectImages/5.png) | ![Image 6](projectImages/6.png) |
 |---------------------------------|---------------------------------|

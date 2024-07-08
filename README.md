@@ -29,6 +29,11 @@ Provide instructions on how to use the application.
 
 ## Project Images
 
+### Image 0
+
+![Image 1](projectImages/0.png)
+*Description of image 0.*
+
 ### Image 1
 
 ![Image 1](projectImages/1.png)
@@ -83,7 +88,7 @@ Provide instructions on how to use the application.
 
 ### Entity-Relationship Diagram
 
-![ER Diagram](projectImages/ERDiagram.png)
+![ER Diagram](projectImages/ERdiagram.png)
 *ER Diagram illustrating the database structure.*
 
 ### Relational Diagram
@@ -92,26 +97,14 @@ Provide instructions on how to use the application.
 *Relational Diagram showing database tables and relationships.*
 
 
-## Database Diagrams
-
-### Entity-Relationship Diagram
-
-![ER Diagram](screenshots/er_diagram.png)
-*ER Diagram illustrating the database structure.*
-
-### Relational Diagram
-
-![Relational Diagram](screenshots/relational_diagram.png)
-*Relational Diagram showing database tables and relationships.*
-
 ## Demo
 
 Visit the live demo [here](http://heritagehubonline.pythonanywhere.com/).
 
 ## Contributors
 
-- [Your Name](https://github.com/theshamiksinha)
-- [Other Team Members](https://github.com/other_team_member)
+- [Shamik Sinha](https://github.com/theshamiksinha)
+- [Vansh Yadav](https://github.com/other_team_member)
 
 ## License
 

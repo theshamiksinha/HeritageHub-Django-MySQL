@@ -74,11 +74,6 @@ Provide instructions on how to use the application.
 ![Image 7](projectImages/7.png)
 *Description of image 7.*
 
-### Image 8
-
-![Image 8](projectImages/8.png)
-*Description of image 8.*
-
 ### Image 9
 
 ![Image 9](projectImages/9.png)

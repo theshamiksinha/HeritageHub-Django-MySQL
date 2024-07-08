@@ -4,7 +4,7 @@ HeritageHub is dedicated to preserving and promoting the rich cultural heritage 
 
 With a passion for cultural preservation, we empower craftsmen to sustain their unique skills and traditions. By bringing India's cultural treasures to the forefront, we celebrate and sustain our diverse heritage for generations to come.
 
-- **Live Demo:** [Visit the live demo here](http://heritagehubonline.pythonanywhere.com/)
+- **Live Demo:** [Check out our site here!](http://heritagehubonline.pythonanywhere.com/)
 
 ## Project Overview
 

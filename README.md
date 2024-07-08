@@ -8,7 +8,7 @@ With a passion for cultural preservation, we empower craftsmen to sustain their 
 
 ## Project Overview
 
-HeritageHub aims to provide a platform for users to explore and learn about various cultural heritage sites. It facilitates the preservation of cultural identity by showcasing historical information, multimedia content, and interactive features.
+HeritageHub is an E-commerce platform utilizing MySQL, Python, and Flask to promote Indian heritage and traditional items, emphasising cultural diversity and user engagement. HeritageHub was developed as a part the course project in Database mangagement Systems course at IIIT Delhi, Winter semester 2023-24.
 
 ## Features
 

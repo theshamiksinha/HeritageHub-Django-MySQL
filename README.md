@@ -61,17 +61,22 @@ Once the application is running locally:
 | ![Image 7](projectImages/7.png) | ![Image 9](projectImages/9.png) |
 |---------------------------------|---------------------------------|
 | *Description of image 7.*       | *Description of image 9.*       |
+
+
 ## Database Diagrams
 
-### Entity-Relationship Diagram
-
-![ER Diagram](projectImages/ERdiagram.png)
-*ER Diagram illustrating the database structure.*
-
-### Relational Diagram
-
-![Relational Diagram](projectImages/relationalModel.png)
-*Relational Diagram showing database tables and relationships.*
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+    <div style="flex: 50%; padding: 10px;">
+        <h3>Entity-Relationship Diagram</h3>
+        <img src="projectImages/ERdiagram.png" alt="ER Diagram" style="width: 100%;">
+        <p><em>ER Diagram illustrating the database structure.</em></p>
+    </div>
+    <div style="flex: 50%; padding: 10px;">
+        <h3>Relational Diagram</h3>
+        <img src="projectImages/relationalModel.png" alt="Relational Diagram" style="width: 100%;">
+        <p><em>Relational Diagram showing database tables and relationships.</em></p>
+    </div>
+</div>
 
 ## Demo
 

@@ -1,6 +1,10 @@
 # HeritageHub Project
 
-HeritageHub is a web application aimed at preserving and promoting cultural heritage sites.
+HeritageHub is dedicated to preserving and promoting the rich cultural heritage of India. We bridge the gap between traditional artisans and a global audience, providing them with tools to thrive in the digital age.
+
+With a passion for cultural preservation, we empower craftsmen to sustain their unique skills and traditions. By bringing India's cultural treasures to the forefront, we celebrate and sustain our diverse heritage for generations to come.
+
+- **Live Demo:** [Visit the live demo here](http://heritagehubonline.pythonanywhere.com/)
 
 ## Project Overview
 
@@ -8,38 +12,12 @@ HeritageHub aims to provide a platform for users to explore and learn about vari
 
 ## Features
 
-- Explore detailed information about cultural heritage sites.
-- View images and multimedia content related to each site.
-- Interactive maps for site locations and navigation.
+- Explore products of cultural and heritage value.
+- View images and multimedia content related to each product.
+- Order products and add them to your cart.
 - User registration and authentication system.
-- Admin panel for site management and content updates.
+- Admin panel for site management.
 
-## Technologies Used
-
-- Python
-- Flask
-- MySQL
-- HTML/CSS
-- JavaScript
-
-## Installation
-
-To set up and run HeritageHub locally:
-
-1. Clone the repository from [GitHub](https://github.com/theshamiksinha/HeritageHub-Django-MySQL/tree/main).
-2. Install dependencies using `pip install -r requirements.txt`.
-3. Configure your MySQL database settings in `config.py`.
-4. Initialize the database using Flask-Migrate.
-5. Run the application with `python app.py`.
-
-## Usage
-
-Once the application is running locally:
-
-- Access the application through your browser at `http://localhost:5000`.
-- Register as a user or login with existing credentials.
-- Explore cultural heritage sites, view details, and interact with the content.
-- Admins can log in to manage site data and update information.
 
 ## Project Images
 | ![Image 0](projectImages/0.png) | ![Image 1](projectImages/1.png) |
@@ -77,6 +55,33 @@ Once the application is running locally:
         <p><em>Relational Diagram showing database tables and relationships.</em></p>
     </div>
 </div>
+
+## Technologies Used
+
+- Python
+- Flask
+- MySQL
+- HTML/CSS
+- JavaScript
+
+## Installation
+
+To set up and run HeritageHub locally:
+
+1. Clone the repository from [GitHub](https://github.com/theshamiksinha/HeritageHub-Django-MySQL/tree/main).
+2. Install dependencies using `pip install -r requirements.txt`.
+3. Configure your MySQL database settings in `config.py`.
+4. Initialize the database using Flask-Migrate.
+5. Run the application with `python app.py`.
+
+## Usage
+
+Once the application is running locally:
+
+- Access the application through your browser at `[http://localhost:5000](http://heritagehubonline.pythonanywhere.com/)`.
+- Login with existing credentials, user 1 and password as password.
+- Explore cultural heritage products, view details, and interact with the content.
+- Admins can log in to manage site data and update information.
 
 ## Demo
 

@@ -1,4 +1,4 @@
-# HeritageHub Project
+# 🏛️ HeritageHub: Celebrating Our Cultural Legacy 🌍
 
 HeritageHub is dedicated to preserving and promoting the rich cultural heritage of India. We bridge the gap between traditional artisans and a global audience, providing them with tools to thrive in the digital age.
 
